@@ -1,12 +1,16 @@
 
 ---
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif) 
+<h3 align="left"> Hey there👋</h3>
 
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-
-<h1 align="center">Hi 👋, I'm Md Faizaan Alam</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23ffffff&lines=I'm+Md+Faizaan+Alam&size=30)](https://git.io/typing-svg) 
 <h3 align="center">Versatile computer science student specializing in Full Stack Development and Cybersecurity.</h3>
+<p align="center" style="color: #ffffff;"><em>Currently pursuing Bachelor of Technology in Computer Science Engineering</em></p> <!-- Added line -->
+
+---
 
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-92.gif">
+<br>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mdfaizaanalam&label=Profile%20views&color=0e75b6&style=flat" alt="mdfaizaanalam" />
@@ -17,10 +21,10 @@
 - 👯 I’m looking to collaborate on **competitive programming and development projects.**
 - 📫 Reach me at **faizanalam327@gmail.com**
 - ⚡ Fun fact: **I am a very helpful person.**
-
+  
 ---
 
-<h3 align="left">Connect with Me:</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23ffffff&lines=Let's+Connect+With+Me:&size=25)](https://git.io/typing-svg)
 <p align="left">
   <a href="https://twitter.com/mdfaizaanalam_" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdfaizaanalam_" height="30" width="40" />
@@ -43,8 +47,7 @@
 </p>
 
 ---
-
-<h3 align="left">Languages and Tools:</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23ffffff&lines=Languages+and+Tools:&size=25)](https://git.io/typing-svg)
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
