@@ -18,7 +18,8 @@
 - 🔭 I’m currently working on **learning new skills.**
 - 🌱 I’m currently learning **DSA, Java, React JS, Node JS, Cybersecurity.**
 - 👯 I’m looking to collaborate on **competitive programming and development projects.**
-- 📫 Reach me at mdfaizaanalam.github.io
+- 🙋‍ More about me: Visit my [website](https://mdfaizaanalam.github.io/)
+- 📫 Reach me at **faizanalam327@gmail.com**
 - ⚡ Fun fact: **I am a very helpful person.**
   
 ---
