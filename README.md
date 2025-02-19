@@ -93,7 +93,6 @@
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdfaizaanalam&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="mdfaizaanalam" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdfaizaanalam&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="mdfaizaanalam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdfaizaanalam&show_icons=true&theme=highcontrast&locale=en" alt="mdfaizaanalam" /></p>
 
